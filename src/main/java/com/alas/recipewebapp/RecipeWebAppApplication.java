@@ -14,7 +14,7 @@ public class RecipeWebAppApplication implements CommandLineRunner {
 	@Override
 	public void run(String... args) throws Exception {
 		// TODO Auto-generated method stub
-		System.out.println("recipe application by Fagninovic !!!");
+		System.out.println("recipe application by Fagninovic !+!-!");
 		
 	}
 
